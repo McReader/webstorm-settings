@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/McReader/coconut.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/McReader/summer-js-coursers-2017.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\dzianis_roi\Documents\WebStormProjects" />
