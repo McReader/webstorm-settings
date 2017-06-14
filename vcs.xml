@@ -59,6 +59,9 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/WebstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\dzianis_roi\WebstormProjects" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\dzianis_roi\WebstormProjects\dns" />
   </component>
 </application>
