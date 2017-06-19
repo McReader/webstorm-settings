@@ -71,6 +71,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
     <keyboard-shortcut first-keystroke="shift meta left" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="meta k" />
@@ -79,6 +80,11 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Print" />
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="meta e" />
