@@ -1,4 +1,5 @@
 <code_scheme name="Default (1)">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
   </JSCodeStyleSettings>
