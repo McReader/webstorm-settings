@@ -7,11 +7,12 @@
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="292d38" />
+    <option name="ADDED_LINES_COLOR" value="eaffe2" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="CARET_COLOR" value="7b7d83" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
+    <option name="DELETED_LINES_COLOR" value="ffbfc3" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -320,13 +321,6 @@
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="287bde" />
-      </value>
-    </option>
-    <option name="CTRL_CLICKABLE">
-      <value>
-        <option name="FOREGROUND" value="ff" />
-        <option name="EFFECT_COLOR" value="ff" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
