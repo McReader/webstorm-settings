@@ -1,5 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="accentColor" value="c6ff00" />
+    <option name="tabsHeight" value="50" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="" />
   </component>
 </application>
