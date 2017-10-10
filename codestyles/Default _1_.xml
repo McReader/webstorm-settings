@@ -1,5 +1,5 @@
 <code_scheme name="Default (1)">
-  <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <JSCodeStyleSettings>
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
