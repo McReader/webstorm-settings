@@ -1,5 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="accentColor" value="c6ff00" />
     <option name="defaultBackground" value="" />
   </component>
 </application>
