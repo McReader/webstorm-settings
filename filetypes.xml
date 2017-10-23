@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".babelrc-legacy" type="PLAIN_TEXT" />
       <mapping pattern="_exports__list" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
