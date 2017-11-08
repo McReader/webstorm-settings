@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".babelrc-legacy" type="PLAIN_TEXT" />
+      <mapping pattern="with-caption" type="PLAIN_TEXT" />
       <mapping pattern="_exports__list" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
