@@ -1,7 +1,6 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="13" />
-    <option name="FONT_FAMILY" value="Monospaced" />
     <option name="LINE_SPACING" value="1.2" />
   </component>
   <component name="EditorSettings">
@@ -12,5 +11,9 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
