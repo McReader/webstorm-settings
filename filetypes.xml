@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="FormatGoogleAnalyticsFilterDropdown" type="JSX Harmony" />
       <mapping pattern="FormatGoogleAnalyticsSearchList" type="JSX Harmony" />
+      <mapping pattern="FormatGoogleAnalyticsFilterDropdown" type="JSX Harmony" />
       <mapping pattern=".babelrc-legacy" type="PLAIN_TEXT" />
+      <mapping pattern="format-google-analytics__selected-columns" type="SCSS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
