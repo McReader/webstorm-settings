@@ -1,32 +1,4 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="$SearchWeb">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-  </action>
-  <action id="CloseActiveTab" />
-  <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="shift ctrl f4" />
-  </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
-  </action>
-  <action id="Editor SearchWeb">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-  </action>
-  <action id="EditorMatchBrace" />
-  <action id="FileChooser.TogglePathShowing" />
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
-  <action id="Graph.Faces.OpenSelectedPages">
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
-  </action>
-  <action id="Print" />
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -44,11 +16,5 @@
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
-  </action>
-  <action id="TogglePresentationMode">
-    <keyboard-shortcut first-keystroke="f12" />
-  </action>
-  <action id="XDebugger.JumpToSource">
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
 </keymap>
