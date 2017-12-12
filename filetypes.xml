@@ -6,6 +6,7 @@
       <mapping pattern="FormatGoogleAnalyticsFilterDropdown" type="JSX Harmony" />
       <mapping pattern="FormatGoogleAnalyticsSearchList" type="JSX Harmony" />
       <mapping pattern=".babelrc-legacy" type="PLAIN_TEXT" />
+      <mapping pattern="format-google-analytics__columns-list-item.scss" type="SCSS" />
     </extensionMap>
   </component>
 </application>
