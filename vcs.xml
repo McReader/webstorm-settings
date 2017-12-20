@@ -61,6 +61,9 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\dzianis_roi\Documents\WebStormProjects" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="MIGRATED" value="true" />
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$APPLICATION_HOME_DIR$/bin/C:/Users/dzianis_roi/WebstormProjects/dns" />
   </component>
