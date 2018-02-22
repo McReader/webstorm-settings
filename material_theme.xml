@@ -5,6 +5,7 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="accentColor" value="F44336" />
+    <option name="useProjectViewDecorators" value="false" />
     <option name="tabsHeight" value="24" />
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
