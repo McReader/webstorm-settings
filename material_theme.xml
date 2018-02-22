@@ -1,9 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="LIGHTER" />
-    <option name="accentColor" value="c6ff00" />
-    <option name="tabsHeight" value="50" />
+    <option name="version" value="1.6.1" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="accentColor" value="F44336" />
+    <option name="tabsHeight" value="24" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="defaultBackground" value="" />
+    <option name="darkTitleBar" value="true" />
+    <option name="arrowsStyle" value="Darcula" />
   </component>
 </application>
