@@ -1,5 +1,0 @@
-/**
- * DATAWATCH NEW SERVER
- *
- * #[[$Description$]]#
- */

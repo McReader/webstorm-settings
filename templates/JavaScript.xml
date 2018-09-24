@@ -1,8 +1,0 @@
-<templateSet group="JavaScript">
-  <template name="conl" value="console.log('$MESSAGE$');" description="Log message to console" toReformat="false" toShortenFQNames="true">
-    <variable name="MESSAGE" expression="" defaultValue="test" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
